@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Nothing
 
 ### Changed
-- Typo with Less Lethal Shotgun (Pulling out of vehicle)
+- Typo with Less Lethal Shotgun (Clock In Menu)
+- Fixed "No Race Found" when AFK (Anti-AFK)
 
 ### Removed
 - Nothing
