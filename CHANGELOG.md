@@ -6,14 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 06/16/2019
 ### Added
-- Testing
+- Nothing
 
 ### Changed
 - Typo with Less Lethal Shotgun (Pulling out of vehicle)
 
 ### Removed
-- Testing
-
-## 06/14/2019
-### Added
-- Testing
+- Nothing
