@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Command: /summon ID (Alias of /tphere)
 - Staff Score (Similar to trustscore but for staff)
 - Command: /staffvolume (Sets the staff help/alert volume level)
+- Chat Emojis (Use ``:emojihere:`` in chat. [Emoji List](https://gist.github.com/avery1227/f6bf19266680f0d0582b95a6e92dffc4))
 
 ### Changed
 - Players Slots now 64 (Beta Test)
