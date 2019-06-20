@@ -15,10 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Chat Emojis (Use ``:emojihere:`` in chat. [Emoji List](https://gist.github.com/avery1227/f6bf19266680f0d0582b95a6e92dffc4))
 
 ### Changed
-- Players Slots now 64 (Beta Test)
+- Players Slots now 128 (Beta Test)
 - Show Common Chat Commands in Suggested Commands (Now With Description)
 - Queue delayed 60 seconds after restart (Fixes GoldVIP Points)
 - Text messages now are in the correct chat format.
+- Fixed Player ID showing in /text messages.
+- Resolved texture loss with Sheriff vehicles.
 
 ### Removed
 - Nothing
